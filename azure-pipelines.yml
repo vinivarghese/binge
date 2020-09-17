@@ -7,7 +7,7 @@ trigger:
 - master
 
 variables:
-  rootDir: 'binge'
+  rootDir: 'my-app'
   buildDir: '$(rootDir)/build'
 
 pool:
