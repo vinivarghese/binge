@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap");
+
+.App {
+  text-align: center;
+}
+
+.App .header {
+  background-color: rgb(175, 27, 63);
+  margin: 0 auto;
+  height: 9rem;
+  text-align: center;
+  background-size: cover;
+  padding: 0.2em;
+  display: block;
+  justify-content: center;
+}
+
+.App .header .Binge-Logo {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+}
+
+.App .header .Binge-Logo img {
+  height: 50%;
+  color: whitesmoke;
+  margin-top: 1rem;
+}
+
+.App .header .Binge-Logo h1 {
+  font-family: "Kaushan Script", cursive;
+  color: whitesmoke;
+  height: 50%;
+  margin-top: 1rem;
+}
+
+.App .header .Binge-TagLine {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.App .header .Binge-TagLine img {
+  transform: scaleX(-1);
+}
+
+.App .header .Binge-TagLine h3 {
+  font-family: "Dancing Script", cursive;
+  color: whitesmoke;
+}
+
+.footer {
+  margin: 2em;
+}

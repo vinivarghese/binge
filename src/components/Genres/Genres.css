@@ -1,0 +1,13 @@
+.GenreCardContainer {
+  max-width: 310px;
+  margin: auto;
+}
+.GenreCardImage {
+  height: 200px !important;
+  max-width: 310px;
+}
+.GenreCardDetails {
+  height: 200px;
+  overflow-y: scroll;
+  overflow-wrap: break-word;
+}

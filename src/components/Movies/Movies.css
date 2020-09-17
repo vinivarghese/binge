@@ -1,0 +1,20 @@
+.MovieCardContainer {
+  max-width: 310px;
+  margin: auto;
+  /* background-image: url("https://www.pexels.com/photo/person-driving-motocross-dirt-bike-outdoors-2341558/"); */
+  /* background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat; */
+  /* margin: 0.1em; */
+  /* width: 33%; */
+  flex-wrap: wrap;
+  /* display: contents; */
+  margin: 0.8em;
+  /* outline: 0.1em solid black; */
+}
+
+.MovieCardDetails {
+  height: 3em;
+  overflow-y: scroll;
+  overflow-wrap: break-word;
+}
